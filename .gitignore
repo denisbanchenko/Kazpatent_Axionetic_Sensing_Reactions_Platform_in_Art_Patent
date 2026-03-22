@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sensitive information (DO NOT COMMIT)
+# Uncomment if you want to track these privately
+# private-keys/
+# ein-credentials/
+# personal-documents/
+
+# Large binary files (consider using Git LFS)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Payment receipts with sensitive data
+payment-receipts/scans/
+payment-receipts/originals/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
