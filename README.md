@@ -1,231 +1,347 @@
-# ASRP.art Patents Repository
+# 🧬 ASRP.art Patent Portfolio
 
-**Платформа ноогенетического измерения реакций на искусство**  
-**Axionetic Sensing Reactions Platform in Art**
-
----
-
-## 📋 Project Overview
-
-This repository contains complete patent documentation for the ASRP.art technology - a system for analyzing and transmitting states through works of art based on neurophysiological and biometric correlates of perception.
-
-### Technology Description
-
-The invention relates to the field of psychophysiology, neuropsychology, digital humanities, and cognitive analysis. It is designed for objective assessment of emotional and cognitive impact of all forms of art - from traditional to digital and hybrid - as well as for recording states of consciousness arising in the author during creation and in the viewer during perception of the work.
-
-### Inventors/Applicants
-
-| # | Name | Country | IIN/BIN | Role |
-|---|------|---------|---------|------|
-| 1 | Банченко Денис Юрьевич / Banchenko Denis Yurievich | KZ | 800622301483 | Applicant, Inventor |
-| 2 | Овсянникова Валерия Александровна / Ovseannicova Valeria Alexandrovna | MD | 001228050911 | Applicant, Inventor |
-| 3 | Капустин Михайло Михайлович / Kapustin Mykhailo Mykhailovich | DE | 000623050976 | Applicant, Inventor |
-
-### Contact Information
-
-**Correspondence Address:**  
-БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ  
-УЛИЦА Комарова 37, 56  
-КЫЗЫЛОРДИНСКАЯ ОБЛАСТЬ, БАЙКОНЫР  
-Республика Казахстан, 468320  
-
-**Email:** denisbanchenko@asrp.tech, d.u.banchenko@gmail.com  
-**Phone:** +77059131157
+> **Платформа ноогенетического измерения реакций на искусство**  
+> **Axionetic Sensing Reactions Platform in Art**
 
 ---
 
-## 📅 Patent Application Timeline
+## 📊 Repository Overview
 
-### Application 1: KZ 327274 (WITHDRAWN)
-
-| Event | Date | Document Number | Status |
-|-------|------|-----------------|--------|
-| Initial Filing | 18.11.2024 | Входящий № 2024-61674 | Registered |
-| Registration Number | 18.11.2024 | 2024/0998.1 | Assigned |
-| Barcode | - | 3350493 | Assigned |
-| Formal Examination Request | 13.12.2024 | Исх. № 2024-78177 | Received |
-| Response to Request | 19.12.2024 | Исх. № 8 | Submitted |
-| **Deadline for Response** | **13.03.2025** | - | **MISSED** |
-| **Application Withdrawn** | **14.03.2025** | **Исх. № 2025-18717** | **TERMINATED** |
-
-**Original Title (KZ 327274):**  
-Система оценки произведений искусства через нейрофизиологический анализ состояний сознания и биометрических данных как механизм передачи состояний через искусство
-
-**Note:** This application was withdrawn due to missed deadline for response to formal examination request. Priority can be restored until 13.03.2026.
+| Metric | Value |
+|--------|-------|
+| **Technology** | Neurophysiological Art Analysis System |
+| **Patent Family** | 3 Applications (KZ × 2, PCT × 1) |
+| **Priority Date** | 24 November 2024 |
+| **Status** | 🟡 Substantive Examination |
+| **Inventors** | 3 (KZ, MD, DE) |
+| **Total Investment** | 91,002.24 KZT |
 
 ---
 
-### Application 2: KZ 380648 (ACTIVE - Substantive Examination)
+## 🎯 Quick Navigation
 
-| Event | Date | Document Number | Status |
-|-------|------|-----------------|--------|
-| Initial Filing | 20.06.2025 | Входящий № 2025-36962 | Registered |
-| Registration Number | 20.06.2025 | 2025/0592.1 | Assigned |
-| Barcode | - | 3575061 | Assigned |
-| Priority Claim | 17.11.2024 | № 327274 | Claimed (Art. 20, Sec. 4) |
-| Formal Examination Request | 11.07.2025 | Исх. № 2025-41646 | Submitted |
-| Kazpatent Response | 16.07.2025 | № 2025-50798 | Received |
-| Formal Examination Query | 13.08.2025 | № 2025-57774 | Received |
-| Applicant Response | 15.09.2025 | Исх. № 9-15 | Submitted |
-| Additional Materials (Figures) | 15.09.2025 | Исх. № 10-15 | Submitted |
-| **Positive Formal Examination** | **17.09.2025** | **№ 2025-67049** | **PASSED** |
-| Substantive Examination Payment | 17.09.2025 | Заказ № 933954 | Paid (44,192.96 KZT) |
-| Response to Payment Notice | 20.09.2025 | Исх. № 20 | Submitted |
-| Accelerated Examination Request | 21.09.2025 | - | Submitted |
-| Kazpatent Response (Accelerated) | 24.09.2025 | № 2025-69083 | **REJECTED** |
-| **Current Status** | **-** | **-** | **SUBSTANTIVE EXAMINATION IN PROGRESS** |
-
-**Current Title (KZ 380648):**  
-Платформа ноогенетического измерения реакций на искусство
-
-**Examination Fee:** 20,088.32 KZT (paid)  
-**Excess Payment:** 24,104.64 KZT (credited for future services)
+| Section | Description | Status |
+|---------|-------------|--------|
+| [**📋 Patent Applications**](#-patent-applications) | Complete application documentation | ✅ Active |
+| [**📅 Timeline**](#-timeline) | Critical dates and deadlines | 🟡 Monitoring |
+| [**💰 Financial Summary**](#-financial-summary) | Payment history and credits | ✅ Tracked |
+| [**👥 Inventors**](#-inventors) | Team and contact information | ✅ Verified |
+| [**📁 Repository Structure**](#-repository-structure) | Documentation organization | ✅ Complete |
+| [**🔬 Technology**](#-technology) | Technical specifications | ✅ Documented |
+| [**📞 Correspondence**](#-correspondence) | Official communications log | ✅ Archived |
 
 ---
 
-### Application 3: PCT 412362 (INTERNATIONAL - Filed)
+## 📋 Patent Applications
 
-| Event | Date | Document Number | Status |
-|-------|------|-----------------|--------|
-| International Filing | 07.03.2026 | Входящий № 2026-16703 | Registered |
-| Registration Number | 07.03.2026 | 2026/000010 | Assigned |
-| Barcode | - | 3885356 | Assigned |
-| Priority Claim 1 | 20.06.2025 | № 380648 (KZ) | Claimed |
-| Priority Claim 2 | 24.11.2024 | № 327274 (KZ) | Claimed (Restoration Requested) |
-| Priority Restoration Request | 07.03.2026 | - | Submitted (Rule 26bis.3 PCT) |
-| Processing Fee Payment | 09.11.2025 | Заказ № 944095 | Paid (10,264.80 KZT) |
-| **Current Status** | **-** | **-** | **PROCESSING/INTERNATIONAL SEARCH** |
+### Application 1: KZ 327274 ⚠️
 
-**PCT Title:**  
-ПЛАТФОРМА НООГЕНЕТИЧЕСКОГО ИЗМЕРЕНИЯ РЕАКЦИЙ НА ИСКУССТВО  
-AXIONETIC SENSING REACTIONS PLATFORM IN ART
+| Field | Value |
+|-------|-------|
+| **Number** | `2024/0998.1` |
+| **Status** | ❌ Withdrawn (14.03.2025) |
+| **Filing Date** | 18.11.2024 |
+| **Title** | Система оценки произведений искусства через нейрофизиологический анализ... |
+| **Priority** | First filing (basis for subsequent applications) |
+| **Documents** | [`/docs/KZ-327274/`](docs/KZ-327274/application.md) |
 
-**ISA (International Searching Authority):** EPO (ЕПВ)
+> **Note:** Withdrawn due to missed deadline. Priority rights secured via KZ 380648.
 
-**Designated States:** All PCT contracting states except DE, JP, KR (excluded for national protection)
+---
+
+### Application 2: KZ 380648 ✅
+
+| Field | Value |
+|-------|-------|
+| **Number** | `2025/0592.1` |
+| **Status** | 🟡 Substantive Examination |
+| **Filing Date** | 20.06.2025 |
+| **Title** | Платформа ноогенетического измерения реакций на искусство |
+| **Priority** | 17.11.2024 (KZ 327274) |
+| **Documents** | [`/docs/KZ-380648/`](docs/KZ-380648/application.md) |
+
+**Current Stage:**
+```
+Formal Examination ✅ → Substantive Examination 🟡 → Grant Decision ⏳ → Publication ⏳
+```
+
+---
+
+### Application 3: PCT 412362 🌍
+
+| Field | Value |
+|-------|-------|
+| **Number** | `PCT/KZ2026/000010` |
+| **Status** | 🟡 International Search |
+| **Filing Date** | 07.03.2026 |
+| **Title** | AXIONETIC SENSING REACTIONS PLATFORM IN ART |
+| **ISA** | EPO (European Patent Office) |
+| **Designated States** | 150+ (except DE, JP, KR) |
+| **Documents** | [`/docs/PCT-412362/`](docs/PCT-412362/application.md) |
+
+**Priority Chain:**
+```
+KZ 327274 (24.11.2024) → KZ 380648 (20.06.2025) → PCT 412362 (07.03.2026)
+```
+
+---
+
+## 📅 Timeline
+
+### Critical Deadlines
+
+| Date | Event | Priority | Status |
+|------|-------|----------|--------|
+| **07.09.2026** | PCT Chapter II Demand Deadline | 🔴 High | ⏳ Pending |
+| **07.05.2027** | PCT National Phase Entry | 🔴 Critical | ⏳ Pending |
+| **~06.2026** | KZ 380648 Examination Report | 🟡 Medium | ⏳ Expected |
+| **~09.2026** | KZ 380648 Grant Decision | 🟡 Medium | ⏳ Expected |
+
+### Historical Milestones
+
+```mermaid
+gantt
+    title Patent Application Timeline
+    dateFormat  YYYY-MM-DD
+    
+    section KZ 327274
+    Filing              :done, k1, 2024-11-18, 1d
+    Formal Examination  :done, k2, 2024-12-13, 1d
+    Withdrawn           :crit, k3, 2025-03-14, 1d
+    
+    section KZ 380648
+    Filing              :done, k4, 2025-06-20, 1d
+    Formal Examination  :done, k5, 2025-08-13, 2025-09-17
+    Substantive Exam    :active, k6, 2025-09-17, 2026-09-17
+    
+    section PCT 412362
+    Filing              :done, p1, 2026-03-07, 1d
+    International Search :active, p2, 2026-03-07, 2026-05-07
+    Publication         :p3, 2026-06-07, 1d
+```
+
+---
+
+## 💰 Financial Summary
+
+### Payment Overview
+
+| Category | Amount (KZT) | Status |
+|----------|--------------|--------|
+| **Total Paid** | 91,002.24 | ✅ Complete |
+| **Used** | 30,353.12 | - |
+| **Available Credit** | 60,649.12 | 💳 For future use |
+| **Refunded** | 0.00 | - |
+
+### Payment History
+
+| Date | Service | Amount | Receipt | Status |
+|------|---------|--------|---------|--------|
+| 18.09.2024 | KZ 327274 Filing Fee | 36,544.48 | 208366207 | ✅ Credited |
+| 17.09.2025 | KZ 380648 Substantive Exam | 20,088.32 | 933954 | ✅ Used |
+| 17.09.2025 | KZ 380648 Accelerated Exam | 24,104.64 | 933954 | ⚠️ Credited |
+| 09.11.2025 | PCT Processing Fee | 10,264.80 | 944095 | ✅ Used |
+
+**Detailed Records:** [`/payment-receipts/receipts.md`](payment-receipts/receipts.md)
+
+---
+
+## 👥 Inventors
+
+| # | Name | Country | Role | Contact |
+|---|------|---------|------|---------|
+| **1** | 🇰🇿 Банченко Денис Юрьевич | Kazakhstan | Applicant, Inventor | denisbanchenko@asrp.tech |
+| **2** | 🇲🇩 Овсянникова Валерия Александровна | Moldova | Applicant, Inventor | info@asrp.tech |
+| **3** | 🇩🇪 Капустин Михайло Михайлович | Germany | Applicant, Inventor | - |
+
+### Correspondence Address
+
+```
+БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ
+УЛИЦА Комарова 37, 56
+КЫЗЫЛОРДИНСКАЯ ОБЛАСТЬ, БАЙКОНЫР
+Республика Казахстан, 468320
+
+Phone: +7 705 913 1157
+Email: denisbanchenko@asrp.tech
+```
+
+---
+
+## 🔬 Technology
+
+### Technical Field
+
+**Neurophysiological Art Analysis System** combining:
+- 🧠 EEG & Polysomnography
+- 💓 Biometric Sensors (GSR, HRV)
+- 🤖 Machine Learning Analysis
+- 🔗 NFT Tokenization
+- 📊 Emotional-Cognitive Metrics
+
+### Applications
+
+| Domain | Use Case |
+|--------|----------|
+| 🏛️ Museums | Audience engagement analysis |
+| 🎨 Galleries | Artwork impact assessment |
+| 🧪 Research | Consciousness studies |
+| 🏥 Therapy | Art therapy monitoring |
+| 🎓 Education | Creative engagement tracking |
+| ⚖️ Legal | Authorship verification |
+
+### Technical Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    ASRP.art Platform                         │
+├─────────────────────────────────────────────────────────────┤
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐   │
+│  │ Author   │  │ Viewer   │  │ ML       │  │ NFT      │   │
+│  │ Sensors  │→ │ Sensors  │→ │ Analysis │→ │ Token    │   │
+│  │ (EEG)    │  │ (EEG)    │  │ Engine   │  │ Generator│   │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘   │
+│       ↓             ↓             ↓             ↓          │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │          Data Processing & Standardization          │   │
+│  └─────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Detailed Specifications:** [`/figures/figures-documentation.md`](figures/figures-documentation.md)
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-asrp-art-patents/
-├── README.md                          # This file
-├── docs/                              # Patent application documents
-│   ├── KZ-327274/                     # First national application (withdrawn)
-│   │   ├── application.md             # Application details
-│   │   ├── description.md             # Invention description
-│   │   ├── claims.md                  # Claims
-│   │   └── abstract.md                # Abstract
-│   ├── KZ-380648/                     # Second national application (active)
-│   │   ├── application.md             # Application details
-│   │   ├── description.md             # Invention description
-│   │   ├── claims.md                  # Claims
-│   │   └── abstract.md                # Abstract
-│   └── PCT-412362/                    # International application
-│       ├── application.md             # Application details
-│       ├── description.md             # Invention description
-│       ├── claims.md                  # Claims
-│       └── abstract.md                # Abstract
-├── correspondence/                    # Official correspondence
-│   ├── kazpatent/                     # Kazpatent communications
-│   └── pct/                           # PCT communications
-├── figures/                           # Technical drawings and figures
-│   ├── Figure1.md                     # Functional diagram
-│   ├── Figure2.md                     # EEG processing algorithm
-│   └── Figure3.md                     # NFT structure
-├── legal/                             # Legal documents
-│   ├── priority-claims.md             # Priority claim documentation
-│   └── declarations.md                # PCT declarations
-├── payment-receipts/                  # Payment confirmations
-│   └── receipts.md                    # Payment history
-└── templates/                         # Document templates
-    └── standard-forms.md              # Standard forms reference
+Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent/
+│
+├── 📄 README.md                          # This file
+├── 📄 GITHUB_ISSUES_TO_CREATE.md         # Issue templates
+├── 📄 PUSH_INSTRUCTIONS.md               # Deployment guide
+│
+├── 📂 .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── patent-application-tracking.md
+│       ├── correspondence-tracking.md
+│       └── payment-tracking.md
+│
+├── 📂 docs/                              # Application documentation
+│   ├── KZ-327274/                        # First national (withdrawn)
+│   │   └── application.md
+│   ├── KZ-380648/                        # Second national (active)
+│   │   └── application.md
+│   └── PCT-412362/                       # International (active)
+│       └── application.md
+│
+├── 📂 correspondence/                    # Official communications
+│   └── kazpatent/
+│       └── correspondence-log.md
+│
+├── 📂 figures/                           # Technical diagrams
+│   └── figures-documentation.md
+│
+├── 📂 payment-receipts/                  # Financial records
+│   └── receipts.md
+│
+└── 📂 legal/                             # Legal documents
+    ├── priority-claims.md
+    └── declarations.md
 ```
 
 ---
 
-## 🔬 Technical Field
+## 📞 Correspondence
 
-The invention covers all forms of art including but not limited to:
+### Recent Communications
 
-- **Physical objects:** painting, sculpture, architecture, textiles, ceramics, calligraphy, traditional crafts, installations
-- **Performing arts:** music, vocals, theater, choreography, performance, opera, circus arts
-- **Literary works:** poetry, prose, dramaturgy, texts, scripts
-- **Digital and multimedia art:** images, audio and video files, animation, 3D models, interactive objects, data visualization, AR/VR, NFT, game design, algorithmic art
-- **Scientific-mathematical art:** visual representations of formulas, structures, theoretical and abstract objects
-- **Hybrid and experimental forms:** bioart, neuroart, live art systems, generative compositions with machines, AI, and biological environments
+| Date | Type | Counterparty | Subject | Status |
+|------|------|--------------|---------|--------|
+| 24.09.2025 | Incoming | Kazpatent | Accelerated Exam Rejection | ❌ Denied |
+| 20.09.2025 | Outgoing | Kazpatent | Payment Confirmation | ✅ Submitted |
+| 17.09.2025 | Incoming | Kazpatent | Positive Formal Examination | ✅ Passed |
+| 15.09.2025 | Outgoing | Kazpatent | Response to Query | ✅ Submitted |
 
-The system is also applicable for analysis of perceptual reactions and cognitive-physiological correlates not only in humans but also in other life forms - including mammals, birds, insects, as well as interaction of artworks with natural and biological substrates: plants, fungi, microorganisms, and biomaterials.
-
----
-
-## 🎯 Technical Result
-
-The technical result achieved is the creation of a system capable of recording, analyzing, and comparing states of consciousness of the author (including lucid dreams) and viewer reactions using neurophysiological sensors and machine learning algorithms, and presenting these data in unified digital form with NFT tokenization capability.
+**Complete Log:** [`/correspondence/kazpatent/correspondence-log.md`](correspondence/kazpatent/correspondence-log.md)
 
 ---
 
-## 📊 Key Patent Information
+## 🚀 Next Actions
 
-### IPC Classification
-(To be assigned during international search)
+### Immediate (Q2 2026)
 
-### Priority Applications
-1. **KZ 327274** - 24.11.2024 (Restoration requested under PCT Rule 26bis.3)
-2. **KZ 380648** - 20.06.2025
+- [ ] Monitor PCT International Search Report (~05.2026)
+- [ ] Review KZ 380648 Examination Report (~06.2026)
+- [ ] Prepare Article 19 Amendments (2 months from ISR)
 
-### PCT Application
-- **Number:** PCT/KZ2026/000010
-- **Filing Date:** 07.03.2026
-- **Applicants:** Banchenko Denis (KZ), Ovseannicova Valeria (MD), Kapustin Mykhailo (DE)
-- **ISA:** EPO
+### Short-term (Q3-Q4 2026)
 
----
+- [ ] Decide on PCT Chapter II Demand (deadline: 07.09.2026)
+- [ ] Respond to KZ 380648 objections (if any)
+- [ ] Budget for national phase entry
 
-## 💰 Payment History
+### Long-term (2027)
 
-| Date | Service | Amount (KZT) | Receipt # | Status |
-|------|---------|--------------|-----------|--------|
-| 18.09.2024 | Initial filing fee | 36,544.48 | 208366207 | Paid (credited) |
-| 17.09.2025 | Substantive examination | 20,088.32 | 933954 | Paid |
-| 17.09.2025 | Accelerated examination | 24,104.64 | 933954 | Paid (credited as excess) |
-| 09.11.2025 | PCT processing fee | 10,264.80 | 944095 | Paid |
-
-**Total Paid:** 91,002.24 KZT
+- [ ] Select national phase countries (deadline: 07.05.2027)
+- [ ] Arrange translations
+- [ ] Appoint local patent attorneys
+- [ ] Pay national phase fees
 
 ---
 
-## ⚠️ Important Notes
+## 📊 Status Indicators
 
-### Ovseannicova E-Signature Status
-Valeria Ovseannicova did not have an electronic signature (ЭЦП) at the time of initial KZ 327274 filing. She was added as co-author later. For the PCT application, her data is included but she could not sign within the KZ patent system due to lack of Kazakhstani E-Signature. This is documented in the PCT declarations.
-
-### Priority Restoration
-Priority restoration for application KZ 327274 has been requested under PCT Rule 26bis.3 due to unintentional delay caused by active work on improving the invention and preparing the refined national application KZ 380648.
-
-### Name Changes
-- **Original (KZ 327274):** Система оценки произведений искусства через нейрофизиологический анализ...
-- **Revised (KZ 380648):** Платформа ноогенетического измерения реакций на искусство
-- **PCT:** ПЛАТФОРМА НООГЕНЕТИЧЕСКОГО ИЗМЕРЕНИЯ РЕАКЦИЙ НА ИСКУССТВО / AXIONETIC SENSING REACTIONS PLATFORM IN ART
-
-The name "ASRP.art" was requested to be added but was rejected by Kazpatent as it contradicts Rule 7 (no trade names in invention titles).
+| Icon | Meaning |
+|------|---------|
+| ✅ | Complete / Approved |
+| 🟡 | In Progress / Pending |
+| 🔴 | Critical / Action Required |
+| ⏳ | Awaiting / Expected |
+| ❌ | Rejected / Failed |
+| 🌍 | International |
+| 🇰🇿 | Kazakhstan |
+| 📄 | Document Available |
 
 ---
 
-## 📞 Useful Links
+## 🔗 External Resources
 
-- **Kazpatent:** https://qazpatent.kz
-- **WIPO PCT:** https://www.wipo.int/pct
-- **Patent Scope:** https://patentscope.wipo.int
-
----
-
-## 📝 Document Version Control
-
-All documents in this repository should be considered as submitted versions. Any updates from patent offices will be added to the correspondence folders with date stamps.
+| Resource | Link |
+|----------|------|
+| **Kazpatent** | https://qazpatent.kz |
+| **WIPO PCT** | https://www.wipo.int/pct |
+| **PATENTSCOPE** | https://patentscope.wipo.int |
+| **EPO** | https://www.epo.org |
 
 ---
 
-**Last Updated:** 22.03.2026  
-**Repository Maintained By:** Denis Banchenko (denisbanchenko@asrp.tech)
+## 📝 Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 22.03.2026 | Initial repository creation |
+| 1.1 | TBD | Post-ISR updates |
+
+---
+
+## 📧 Contact
+
+**Repository Maintainer:**  
+Denis Banchenko  
+📧 denisbanchenko@asrp.tech  
+📱 +7 705 913 1157
+
+---
+
+<div align="center">
+
+**Last Updated:** 22 March 2026  
+**Repository:** `Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent`  
+**License:** All Rights Reserved
+
+---
+
+⭐ *Innovation through Neurophysiological Art Analysis*
+
+</div>
