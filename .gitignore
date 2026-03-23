@@ -34,3 +34,5 @@ temp/
 
 # Logs
 *.log
+!inbox-renamed-documents/
+!inbox-renamed-documents/**
