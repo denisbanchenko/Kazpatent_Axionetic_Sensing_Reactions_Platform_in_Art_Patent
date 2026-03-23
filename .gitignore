@@ -16,7 +16,7 @@ Thumbs.db
 # personal-documents/
 
 # Large binary files (consider using Git LFS)
-*.pdf
+# Exceptions for inbox-renamed-documents folder
 *.png
 *.jpg
 *.jpeg
@@ -34,5 +34,7 @@ temp/
 
 # Logs
 *.log
+
+# ALLOW all files in inbox-renamed-documents
 !inbox-renamed-documents/
 !inbox-renamed-documents/**
