@@ -189,12 +189,12 @@ flowchart LR
 
 | File / Файл | Barcode / Штрихкод | Subject / Тема |
 |-------------|-------------------|---------------|
-| `2024-12-13_Incoming_KZ327274_FormalExamRequest_Barcode3375286.pdf` | 3375286 | Formal Exam Request |
-| `2025-03-14_Incoming_KZ327274_WithdrawalNotice_Barcode3472173.pdf` | 3472173 | Withdrawal Notice |
-| `2025-07-16_Incoming_KZ380648_ExpansionPetitionResponse_Barcode3600775.pdf` | 3600775 | Expansion Petition Response |
-| `2025-08-13_Incoming_KZ380648_FormalExamQuery_Barcode3630582.pdf` | 3630582 | Formal Exam Query (4 issues) |
-| `2025-09-17_Incoming_KZ380648_PositiveFormalResult_Barcode3670459.pdf` | 3670459 | Positive Formal Result |
-| `2025-09-24_Incoming_KZ380648_AcceleratedExamRejection_Barcode3678502.pdf` | 3678502 | Accelerated Exam Rejection |
+| `2024-12-13_Incoming_KZ327274_FormalExamRequest_Barcode3375286.pdf` | 3375286 | Formal Exam Request / Запрос формальной экспертизы |
+| `2025-03-14_Incoming_KZ327274_WithdrawalNotice_Barcode3472173.pdf` | 3472173 | Withdrawal Notice / Уведомление об отзыве |
+| `2025-07-16_Incoming_KZ380648_ExpansionPetitionResponse_Barcode3600775.pdf` | 3600775 | Expansion Petition Response / Ответ на ходатайство о расширении |
+| `2025-08-13_Incoming_KZ380648_FormalExamQuery_Barcode3630582.pdf` | 3630582 | Formal Exam Query (4 issues) / Запрос формальной экспертизы (4 замечания) |
+| `2025-09-17_Incoming_KZ380648_PositiveFormalResult_Barcode3670459.pdf` | 3670459 | Positive Formal Result / Положительный результат формальной экспертизы |
+| `2025-09-24_Incoming_KZ380648_AcceleratedExamRejection_Barcode3678502.pdf` | 3678502 | Accelerated Exam Rejection / Отказ в ускоренной экспертизе |
 
 ---
 
@@ -202,9 +202,9 @@ flowchart LR
 
 | File / Файл | Outgoing № / Исх. № | Subject / Тема |
 |-------------|-------------------|---------------|
-| `2025-07-11_Outgoing_KZ380648_ExpansionPetition_BWTC_Metaverse_Iskh2025-41646.pdf` | 2025-41646 | Expansion Petition (BWTC Metaverse) |
-| `2025-09-15_Outgoing_KZ380648_ResponseToFormalExam_Iskh9.pdf` | 9 | Response to Formal Exam Query |
-| `2025-09-20_Outgoing_KZ380648_ResponseToPaymentNotice_Iskh20.pdf` | 20 | Response to Payment Notice |
+| `2025-07-11_Outgoing_KZ380648_ExpansionPetition_BWTC_Metaverse_Iskh2025-41646.pdf` | 2025-41646 | Expansion Petition (BWTC Metaverse) / Ходатайство о расширении (BWTC Metaverse) |
+| `2025-09-15_Outgoing_KZ380648_ResponseToFormalExam_Iskh9.pdf` | 9 | Response to Formal Exam Query / Ответ на запрос формальной экспертизы |
+| `2025-09-20_Outgoing_KZ380648_ResponseToPaymentNotice_Iskh20.pdf` | 20 | Response to Payment Notice / Ответ на уведомление о платеже |
 
 ---
 
