@@ -1,7 +1,7 @@
 # 🧬 ASRP.art Patent Portfolio / Патентный Портфель ASRP.art
 
-> **English:** Axionetic Sensing Reactions Platform in Art  
-> **Русский:** Платформа аксионетического сенсоринга реакций на искусство
+> **English:** Axionetic Sensing Reactions Platform in Art
+> **Русский:** ПНИР.Искусство (Платформа ноогенетического измерения реакций на искусство)
 
 ---
 
