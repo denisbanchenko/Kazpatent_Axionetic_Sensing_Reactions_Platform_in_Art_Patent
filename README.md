@@ -116,13 +116,17 @@ KZ 327274 (24.11.2024) → KZ 380648 (20.06.2025) → PCT 412362 (07.03.2026)
 
 ---
 
-## 👥 Inventors / Изобретатели
+## 👥 INVENTORS / АВТОРЫ-ИЗОБРЕТАТЕЛИ
 
-| # | Name / ФИО | Country / Страна | IIN / ИИН | Role / Роль |
-|---|------------|-----------------|-----------|------------|
-| 1 | **Банченко Денис Юрьевич / Banchenko Denis Yurievich** | 🇰🇿 KZ | 800622301483 | Applicant, Inventor / Заявитель, Изобретатель |
-| 2 | **Овсянникова Валерия Александровна / Ovseannicova Valeria Alexandrovna** | 🇲🇩 MD | 001228050911 | Applicant, Inventor / Заявитель, Изобретатель |
-| 3 | **Капустин Михайло Михайлович / Kapustin Mykhailo Mykhailovich** | 🇩🇪 DE | 000623050976 | Applicant, Inventor / Заявитель, Изобретатель |
+**All inventors are equal co-authors / Все авторы-изобретатели являются равными соавторами:**
+
+| # | Name / ФИО | Country / Страна | BIN-IIN / БИН-ИИН | Contribution / Вклад |
+|---|------------|------------------|-------------------|---------------------|
+| 1 | **BANCHENKO DENIS YURIEVICH** / **БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | 🇰🇿 KZ | 800622301483 | System architecture, neurophysiological art analysis platform, axionetic sensing method / Архитектура системы, платформа нейрофизиологического анализа искусства, метод аксионетического зондирования |
+| 2 | **OVSEANNICOVA VALERIA ALEXANDROVNA** / **ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | 🇲🇩 MD | 001228050911 | Biomedical validation, clinical testing protocols, regulatory compliance / Биомедицинская валидация, протоколы клинических испытаний, регуляторное соответствие |
+| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH** / **КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | 🇩🇪 DE | 000623050976 | Neural network models, AI algorithms for art perception analysis / Модели нейронных сетей, AI алгоритмы для анализа восприятия искусства |
+
+**All three inventors contributed equally to this patent application / Все три изобретателя внесли равный вклад в эту патентную заявку.**
 
 ---
 
