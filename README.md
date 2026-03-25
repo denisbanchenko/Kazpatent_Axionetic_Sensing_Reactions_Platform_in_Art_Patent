@@ -120,13 +120,23 @@ KZ 327274 (24.11.2024) → KZ 380648 (20.06.2025) → PCT 412362 (07.03.2026)
 
 **All inventors are equal co-authors / Все авторы-изобретатели являются равными соавторами:**
 
-| # | Name / ФИО | Country / Страна | BIN-IIN / БИН-ИИН | Contribution / Вклад |
-|---|------------|------------------|-------------------|---------------------|
-| 1 | **BANCHENKO DENIS YURIEVICH** / **БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | 🇰🇿 KZ | 800622301483 | System architecture, neurophysiological art analysis platform, axionetic sensing method / Архитектура системы, платформа нейрофизиологического анализа искусства, метод аксионетического зондирования |
-| 2 | **OVSEANNICOVA VALERIA ALEXANDROVNA** / **ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | 🇲🇩 MD | 001228050911 | Biomedical validation, clinical testing protocols, regulatory compliance / Биомедицинская валидация, протоколы клинических испытаний, регуляторное соответствие |
-| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH** / **КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | 🇩🇪 DE | 000623050976 | Neural network models, AI algorithms for art perception analysis / Модели нейронных сетей, AI алгоритмы для анализа восприятия искусства |
+| # | Name / ФИО | Country / Страна | BIN-IIN / БИН-ИИН | Email | Contribution / Вклад |
+|---|------------|------------------|-------------------|-------|---------------------|
+| 1 | **OVSEANNICOVA VALERIA ALEXANDROVNA** / **ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | 🇲🇩 MD | 001228050911 | valeriaovseannicova@asrp.tech | Biomedical validation, clinical testing protocols, regulatory compliance / Биомедицинская валидация, протоколы клинических испытаний, регуляторное соответствие |
+| 2 | **BANCHENKO DENIS YURIEVICH** / **БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | 🇰🇿 KZ | 800622301483 | denisbanchenko@asrp.tech | System architecture, neurophysiological art analysis platform, axionetic sensing method / Архитектура системы, платформа нейрофизиологического анализа искусства, метод аксионетического зондирования |
+| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH** / **КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | 🇩🇪 DE | 000623050976 | mykhailokapustin@asrp.tech | Neural network models, AI algorithms for art perception analysis / Модели нейронных сетей, AI алгоритмы для анализа восприятия искусства |
 
-**All three inventors contributed equally to this patent application / Все три изобретателя внесли равный вклад в эту патентную заявку.**
+**Corporate Contact / Корпоративный контакт:** info@asrp.tech
+
+**Correspondence Address / Адрес для переписки:**
+```
+ТОО "Перспективные Научно-Исследовательские Разработки"
+УЛИЦА Комарова 37, 56
+КЫЗЫЛОРДИНСКАЯ ОБЛАСТЬ, БАЙКОНУР
+Республика Казахстан, 468320
+Телефон: +77059131157
+E-mail: info@asrp.tech
+```
 
 ---
 
