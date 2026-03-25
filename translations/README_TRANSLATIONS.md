@@ -82,7 +82,7 @@
 
 | Organization / Организация | Email / Электронная почта |
 |---------------------------|--------------------------|
-| Advanced Scientific Research Projects | denisbanchenko@asrp.tech |
+| Advanced Scientific Research Projects | info@asrp.tech |
 
 ### GitHub Organizations / GitHub Организации
 
